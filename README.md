@@ -2,5 +2,5 @@
 
 ***
 ## Python-Projects
-Some python projects that I had worked in.
+Some python projects that I had worked in for university purposes.
 ***
