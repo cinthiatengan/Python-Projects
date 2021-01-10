@@ -4,6 +4,3 @@
 ## Python-Projects
 Some python projects that I had worked in for university purposes.
 ***
-
-![img](https://giphy.com/embed/LmNwrBhejkK9EFP504) 
-![img](https://giphy.com/gifs/memecandy-LmNwrBhejkK9EFP504)
